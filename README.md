@@ -29,4 +29,20 @@ Esta es una API desarrollada en Laravel que proporciona operaciones CRUD (Crear,
 
 ## Funcionamiento del sistema
 
+<img src="https://github.com/jesus890/desarrolladores_back/blob/develop/public/crud_desarrolladores/listado.png" width="500" alt="img"> 
+
+<br />
+
+<img src="https://raw.githubusercontent.com/jesus890/desarrolladores_back/develop/public/crud_desarrolladores/crear.png" width="500" alt="img"> 
+
+<br />
+
+<img src="https://raw.githubusercontent.com/jesus890/desarrolladores_back/develop/public/crud_desarrolladores/actualizar.png" width="500" alt="img"> 
+
+<br />
+
+<img src="https://raw.githubusercontent.com/jesus890/desarrolladores_back/develop/public/crud_desarrolladores/eliminar.png" width="500" alt="img"> 
+
+1. En el siguiente enlace se adjunta un video.
+
 https://drive.google.com/drive/folders/1MBEFphQJONaa4ni3oKfcBgqMppLygIUj
